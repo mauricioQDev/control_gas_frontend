@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "control-gas"
+    }
+  },
+  "defaultProject": "control-gas",
+  "cli": {
+    "analytics": false
+  }
 }

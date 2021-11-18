@@ -14,7 +14,8 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "strictPropertyInitialization":false
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
